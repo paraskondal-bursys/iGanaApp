@@ -1,0 +1,37 @@
+
+export default {
+  COLORS: {
+    DEFAULT: '#96c93e',
+    PRIMARY: '#94CE58',
+    SECONDARY: '#F7FAFC',
+    LABEL: '#FE2472',
+    INFO: '#11CDEF',
+    ERROR: '#F5365C',
+    SUCCESS: '#2DCE89',
+    WARNING: '#FB6340',    
+    MUTED: '#ADB5BD',
+    INPUT: '#DCDCDC',
+    ACTIVE: '#2F3E82', 
+    SWITCH_ON: '#5E72E4',
+    SWITCH_OFF: '#D4D9DD',
+    BLOCK: '#E7E7E7',
+    ICON: '#172B4D',
+    DISABLE: '#757575',
+    HEADER: '#FFFFFF',
+    BORDER: '#CAD1D7',
+    WHITE: '#FFFFFF',
+    BLACK: '#000000',
+    DANGER:   '#FF0000',
+    BACKGROUND: "#F0F0F0",
+    DISABLE_BG:"#B2B2B2",
+    LIGHT_GREY: '#F9F9F9',
+    GREY: '#c4c4c4',
+    WARNING_YELLOW: '#ffae42',
+    ORANGE: "#F9B02F",
+    GREEN :"#006401",
+    YELLOW: '#FFFF00'	,
+    CYAN:'#00b7ed',
+    RED: "#FF0000"
+  },
+
+};
