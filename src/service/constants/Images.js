@@ -1,7 +1,7 @@
 
-const sample = require("../../assets/imgs/256x256px/distance.png");
+const profile = require("../../assets/imgs/profile-pic.png");
 
 export default {
-  sample,
+  profile
   
 };
