@@ -11,11 +11,10 @@ import {
   KeyboardAvoidingView,
   ScrollView,
   Linking,
+  FlatList
 } from "react-native";
 import { Container, CheckBox, Button, Card, CardItem } from "native-base";
 import  Icon  from "../components/common/Icon";
-
-import { FlatList } from "react-native-gesture-handler";
 
 const width = 100;
 
